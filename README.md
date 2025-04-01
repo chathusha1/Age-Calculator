@@ -31,6 +31,8 @@ Technologies Used
 Live Demo
 
     You can host the project using GitHub Pages or run it locally by opening index.html in a browser.
+📌 Author
 
+    R.M. Chathusha Dinuranga – BSc (Hons) IT Student at SLIIT
     
 
